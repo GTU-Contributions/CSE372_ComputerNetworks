@@ -3,8 +3,9 @@ Gebze Technical University
 
 Projects - Spring 2017
 
-Instructor: Ibrahim Sogukpinar
-Assistant: Arzu Kakisim
+Instructor: Prof. Dr. Ibrahim Sogukpinar
+
+Assistant: Dr. Arzu Kakisim
 
 Course Book: Computer Networks 5th Ed. by Tanenbaum
 
